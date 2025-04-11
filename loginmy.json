@@ -1,7 +1,6 @@
 {
   "compilerOptions": {
     "target": "ES2017",
-    
     "lib": [
       "dom",
       "dom.iterable",
@@ -37,5 +36,5 @@
     ".next/types/**/*.ts",
     "**/*.ts",
     "**/*.tsx"
-, "src/pages/verify-otp.js", "src/app/verify-otp/verify-opt.js"  ]
+, "src/pages/verify-otp.js"  ]
 }
